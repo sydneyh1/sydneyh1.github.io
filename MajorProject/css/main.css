@@ -52,6 +52,23 @@ div.ex1 {
     overflow: hidden;
   }
 
+  /* unvisited link */
+a:link {
+    color: #400527;
+}
+
+a:visited {
+    color: #d9176c;
+}
+
+a:hover {
+    color: #b88b1d;
+}
+
+a:active {
+    color: #689c2b;
+}
+
   /* Change the background     */
   /* color of the footer below */
   footer {
