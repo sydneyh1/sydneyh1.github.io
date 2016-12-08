@@ -30,8 +30,13 @@ div.ex1 {
   /* here. Your image should be   */
   /* 815px wide and 315px high.   */
   header {
+    background-image: url("../images/Welcome to Storybrooke.jpg");
+    width: 851px;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-size: cover;}
 
-  }
+
 
   main {
     padding-bottom: 10010px;
@@ -47,6 +52,8 @@ div.ex1 {
     background: #678;
     overflow: hidden;
   }
+
+
 
   /* Change the background     */
   /* color of the footer below */
@@ -76,11 +83,9 @@ div.ex1 {
 .site-header {
     margin: 0;
     padding-top: 15px;
-    font-family: "Times New Roman", serif;
+    font-family: serif;
     color: white;
   }
-
-
 
 .site-footer{
     text-align: left;
