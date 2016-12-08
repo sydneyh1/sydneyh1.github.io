@@ -36,21 +36,6 @@ div.ex1 {
     background-repeat: no-repeat;
     background-size: cover;}
 
-    a:link {
-        color: #2d0538;
-    }
-
-    a:visited {
-        color: #b18184;
-    }
-
-    a:hover {
-        color: #b88b1d;
-    }
-
-    a:active {
-        color: #689c2b;
-    }
   }
 
   main {
