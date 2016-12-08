@@ -24,16 +24,14 @@ div.ex1 {
   /* Change the background image  */
   /* here. Your image should be   */
   /* 815px wide and 315px high.   */
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/SPCa2IEdGg0" frameborder="0" allowfullscreen></iframe>
+      
   header {
     background-image: ;
     width: 851px;
     height: 315px;
     background-repeat: no-repeat;
     background-size: cover;}
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/SPCa2IEdGg0" frameborder="0" allowfullscreen></iframe>
-
-
 
   main {
     padding-bottom: 10010px;
