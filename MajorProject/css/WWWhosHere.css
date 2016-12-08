@@ -30,15 +30,8 @@ div.ex1 {
   /* here. Your image should be   */
   /* 815px wide and 315px high.   */
   header {
-    width: 851px;
-    height: 315px;
-    background-repeat: no-repeat;
-    background-size: cover;}
 
-    .site-menu a:hover {
-      color: orange;
-      text-decoration: none;
-    }
+  }
 
   main {
     padding-bottom: 10010px;
@@ -54,8 +47,6 @@ div.ex1 {
     background: #678;
     overflow: hidden;
   }
-
-
 
   /* Change the background     */
   /* color of the footer below */
@@ -85,9 +76,11 @@ div.ex1 {
 .site-header {
     margin: 0;
     padding-top: 15px;
-    font-family: serif;
+    font-family: "Times New Roman", serif;
     color: white;
   }
+
+
 
 .site-footer{
     text-align: left;
